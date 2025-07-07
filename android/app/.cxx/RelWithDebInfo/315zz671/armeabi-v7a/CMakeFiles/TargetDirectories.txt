@@ -1,0 +1,2 @@
+C:/Users/Hui Li Shi/Desktop/Flutter Project/elderly_community/android/app/.cxx/RelWithDebInfo/315zz671/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Hui Li Shi/Desktop/Flutter Project/elderly_community/android/app/.cxx/RelWithDebInfo/315zz671/armeabi-v7a/CMakeFiles/rebuild_cache.dir
